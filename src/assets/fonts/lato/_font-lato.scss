@@ -1,0 +1,86 @@
+// format is not necessary
+// but specified for better browser prioritization
+// if other formats added in the future
+
+@font-face {
+  src: url("./Lato-Thin.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-Light.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-Regular.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-Bold.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-Black.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+}
+
+///////////////////////////////
+/// [Italic fonts]
+
+@font-face {
+  src: url("./Lato-ThinItalic.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-LightItalic.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-Italic.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-BoldItalic.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  src: url("./Lato-BlackItalic.woff2") format("woff2");
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+}
